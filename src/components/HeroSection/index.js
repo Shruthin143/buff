@@ -29,22 +29,7 @@ const HeroSection = () => {
         <HeroP>
           <em>A magical experience of purity for a simpler life</em>
         </HeroP>
-        <HeroBtnWrapper>
-          {/* <Button
-            to='about'
-            onMouseEnter={onHover}
-            onMouseLeave={onHover}
-            primary='true'
-            dark='true'
-            smooth={true}
-            duration={500}
-            spy={true}
-            exact='false'
-            offset={-80}
-          >
-            Get Started {hover ? <ArrowForward /> : <ArrowRight />}
-          </Button> */}
-        </HeroBtnWrapper>
+        <HeroBtnWrapper></HeroBtnWrapper>
       </HeroContent>
     </HeroContainer>
   )
