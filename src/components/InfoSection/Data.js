@@ -10,7 +10,7 @@ export const homeObjOne = {
 
   buttonLabel: 'Home',
   imgStart: false,
-  img: require('../../images/aboutUs2.png').default,
+  img: require('../../images/aboutUs3.png').default,
   alt: 'Car',
   dark: 'true',
   primary: true,

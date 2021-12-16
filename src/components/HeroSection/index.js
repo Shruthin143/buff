@@ -30,7 +30,7 @@ const HeroSection = () => {
           <em>A magical experience of purity for a simpler life</em>
         </HeroP>
         <HeroBtnWrapper>
-          <Button
+          {/* <Button
             to='about'
             onMouseEnter={onHover}
             onMouseLeave={onHover}
@@ -43,12 +43,11 @@ const HeroSection = () => {
             offset={-80}
           >
             Get Started {hover ? <ArrowForward /> : <ArrowRight />}
-          </Button>
+          </Button> */}
         </HeroBtnWrapper>
       </HeroContent>
     </HeroContainer>
   )
 }
-
 
 export default HeroSection
