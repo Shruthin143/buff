@@ -48,7 +48,7 @@ const Footer = () => {
             <FooterLinkItems>
               <FooterLinkTitle>Contact Us</FooterLinkTitle>
               <FooterLink>Ph No: 7829000399</FooterLink>
-              <FooterLink>Email: deshpande.1@iitj.ac.in</FooterLink>
+              <FooterLink>Email: pasunoori.1@iitj.ac.in</FooterLink>
             </FooterLinkItems>
           </FooterLinksWrapper>
         </FooterLinksContainer>
